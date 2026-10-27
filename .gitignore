@@ -1,3 +1,16 @@
-echo "*.pdf" >> .gitignore
-echo "*.doc" >> .gitignore
-echo "*.docx" >> .gitignore
+# Documentos y paquete Office
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+~$*
+*.tmp
+
+# Archivos de compilación de Java y NetBeans
+/build/
+/dist/
+/nbproject/private/
+*.class
