@@ -1,0 +1,3 @@
+echo "*.pdf" >> .gitignore
+echo "*.doc" >> .gitignore
+echo "*.docx" >> .gitignore
