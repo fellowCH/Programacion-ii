@@ -15,3 +15,5 @@
 /nbproject/private/
 *.class
 /ClubFutbol/nbproject/private/
+/ClubFutbol/dist/
+/ClubFutbol/build/
